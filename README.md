@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Tian et al., "An adaptation of astronomical image processing enables characterization and functional 3D mapping of individual sites of excitation-contraction coupling in rat cardiac muscle". eLife, 2017. http://dx.doi.org/10.7554/eLife.30425
+
+
 CaCLEAN algorithm
 
 In beating cardiomyocytes, synchronized localized Ca2+ release from clusters of ryanodine receptors (RyR) is amongst the most important determinants of cellular contractility and the heart´s output. Fundamental properties including the release reliability of such individual clusters can be particularly important to understand the development of cardiac diseases, e.g. arrhythmia and heart failure. Novel revolution analysis methods, the CaCLEAN algorithm, were developed to understand the behavior of Ca2+ releasing RyR clusters in beating cardiac myocytes by combining the astronomical CLEAN algorithm with known properties of Ca2+ diffusion. 
